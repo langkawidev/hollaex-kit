@@ -9,7 +9,7 @@ ENVIRONMENT_EXCHANGE_NAME=mymcxchange
 ################################
 
 HOLLAEX_CONFIGMAP_API_NAME=mymcxchange
-HOLLAEX_CONFIGMAP_DOMAIN=https://app-mxchange.prohedgex.com
+HOLLAEX_CONFIGMAP_DOMAIN=https://myexchange.asiaweb.com.my
 HOLLAEX_CONFIGMAP_LOGO_IMAGE=https://app-mxchange.prohedgex.com/Mxchangelogo.png
 
 ENVIRONMENT_WEB_DEFAULT_COUNTRY=MY
